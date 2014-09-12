@@ -1,0 +1,30 @@
+.navbar-header {
+background-color: white;
+}
+
+.icon-bar {
+background-color: black;
+}
+
+.nav ul{
+font-family: Futura;
+color: red;
+
+}
+
+h1 {
+font-family: Chaparral Pro ;
+size: 20px;
+margin-left: 20%;
+}
+
+.books.html {
+font-variant: small-caps; 
+margin-bottom: -80%;
+}
+
+.p {
+font-family: Adobe Caslon Pro;
+size: 30%;
+color: red;
+}
